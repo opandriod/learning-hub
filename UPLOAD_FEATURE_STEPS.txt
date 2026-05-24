@@ -1,0 +1,29 @@
+Admin Upload Feature Added
+
+What was fixed:
+1. /admin/upload is protected inside the admin route and uses the main Layout.
+2. AdminUpload.jsx sends title, course_id, optional unit_id, file type, and file.
+3. Backend /api/upload uploads to Supabase Storage buckets:
+   - notes-pdfs for PDF files
+   - project-zips for ZIP files
+4. Backend saves uploaded file metadata into the notes table.
+5. Added learning_hub_backend/upload_notes_migration.sql to add missing notes columns.
+6. Added .env.example and removed .env from this zip for safety.
+
+After extracting:
+1. Create learning_hub_backend/.env using learning_hub_backend/.env.example.
+2. Run learning_hub_backend/upload_notes_migration.sql in Supabase SQL Editor.
+3. Make sure Supabase Storage buckets exist and are public:
+   - notes-pdfs
+   - project-zips
+4. Backend:
+   cd learning_hub_backend
+   python -m venv venv
+   venv\Scripts\activate
+   python -m pip install -r requirements.txt
+   python app.py
+5. Frontend:
+   cd learning-hub-frontend
+   npm install
+   npm run dev
+6. Login as admin and open /admin/upload.

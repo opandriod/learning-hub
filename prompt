@@ -1,0 +1,11 @@
+I am building admin role
+
+TASK:
+create admin role and give them authority
+
+AUTHORITY ALREADY IMPLEMENTED:
+- block and unblock users
+- we have implemented file upload, HOWEVER the file uploaded doesnt
+
+ADMIN AUTHORITY:
+- View simple analytics

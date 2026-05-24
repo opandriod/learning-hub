@@ -1,0 +1,15 @@
+flask
+flask-cors
+python-dotenv
+psycopg2-binary
+bcrypt
+PyJWT
+reportlab
+supabase
+
+qrcode[pil]
+requests
+
+gunicorn
+
+boto3

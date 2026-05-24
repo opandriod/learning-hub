@@ -1,0 +1,199 @@
+STRATEGIC AND PROJECT PLANNING FOR MIS
+
+1. What is strategic planning in MIS? (2 Marks)
+   Strategic planning in MIS is the process of aligning MIS with the long-term goals of an organization.
+   Example: Planning an MIS that supports future business expansion.
+
+2. Define project planning in MIS. (2 Marks)
+   Project planning in MIS involves planning the steps, resources, and timeline required to develop and implement an MIS.
+   Example: Planning the development of a student management system.
+
+3. Explain the importance of strategic planning for MIS. (5 Marks)
+
+* Aligns MIS with business goals
+* Helps in long-term success
+* Ensures proper use of resources
+* Improves decision-making
+* Reduces risks
+
+Example: A company plans its MIS to support future growth and digital transformation.
+
+4. Discuss the role of project planning in successful MIS implementation. (10 Marks)
+
+* Defines clear objectives
+* Allocates resources properly
+* Sets timelines and milestones
+* Reduces risks and errors
+* Ensures smooth implementation
+
+Example: Proper planning helps complete an MIS project on time and within budget.
+
+GENERAL BUSINESS PLANNING AND MIS RESPONSE
+
+5. What is general business planning? (2 Marks)
+   General business planning is the process of setting goals and deciding how to achieve them in an organization.
+   Example: Planning to increase sales in the next year.
+
+6. What is MIS response? (2 Marks)
+   MIS response is how MIS supports and reacts to the needs of business planning by providing relevant information.
+
+7. Explain the relationship between business planning and MIS. (5 Marks)
+
+* Business planning sets goals
+* MIS provides information to achieve those goals
+* MIS supports decision-making
+* Both work together for success
+
+Example: Business plans expansion, and MIS provides data to support that decision.
+
+8. Discuss how MIS supports business planning and decision making. (10 Marks)
+
+* Provides accurate data
+* Helps in forecasting
+* Supports analysis of alternatives
+* Improves decision quality
+* Saves time
+
+Example: MIS reports help managers plan strategies and make informed decisions.
+
+MIS PLANNING (GENERAL AND DETAIL)
+
+9. What is MIS planning? (2 Marks)
+   MIS planning is the process of designing and organizing MIS to meet organizational needs.
+
+10. Differentiate between general MIS planning and detailed MIS planning. (5 Marks)
+    General MIS Planning:
+
+* Focuses on overall goals
+* Long-term view
+
+Detailed MIS Planning:
+
+* Focuses on specific tasks
+* Short-term and detailed steps
+
+Example: General planning decides what system is needed, detailed planning decides how to build it.
+
+11. Explain the steps involved in MIS planning. (10 Marks)
+
+* Identify organizational goals
+* Analyze information needs
+* Design the system
+* Allocate resources
+* Implement the system
+* Evaluate performance
+
+Example: A company first identifies its needs, designs the MIS, and then implements it step by step.
+
+DEFINE THE PROBLEM
+
+12. Why is problem definition important in system design? (2 Marks)
+    Problem definition is important because it clearly identifies what needs to be solved, ensuring the right solution is developed.
+    Example: If the problem is unclear, the system may not meet user needs.
+
+13. Explain the process of defining a problem in MIS. (5 Marks)
+
+* Identify the issue
+* Gather relevant information
+* Analyze the current system
+* Define objectives
+* Clearly state the problem
+
+Example: A company identifies delays in reporting, analyzes causes, and defines the problem to improve the system.
+
+SET SYSTEM OBJECTIVES AND CONSTRAINTS
+
+14. What are system objectives? (2 Marks)
+    System objectives are the goals that a system is designed to achieve.
+    Example: Improving data accuracy or reducing processing time.
+
+15. What are system constraints? (2 Marks)
+    System constraints are the limitations or restrictions under which a system must operate.
+    Example: Limited budget or time.
+
+16. Explain how system objectives and constraints are established. (5 Marks)
+
+* Identify organizational goals
+* Understand user requirements
+* Analyze available resources
+* Identify limitations like cost, time, and technology
+* Define clear objectives within those constraints
+
+Example: A company wants a fast system (objective) but must work within a limited budget (constraint).
+
+DETERMINING INFORMATION NEEDS AND SOURCES
+
+17. What are information needs? (2 Marks)
+    Information needs are the types of information required by users to perform tasks and make decisions.
+    Example: A manager needs sales data to plan strategies.
+
+18. Explain how information needs are identified in MIS. (5 Marks)
+
+* Identify users and their roles
+* Study business processes
+* Analyze decision-making requirements
+* Collect user feedback
+* Determine what data is needed
+
+Example: Managers are asked what reports they need to perform their duties.
+
+19. Discuss different sources of information in MIS. (5 Marks)
+
+* Internal sources: data from within the organization
+* External sources: data from outside (market, competitors)
+* Primary sources: collected directly
+* Secondary sources: already available data
+
+Example: Sales reports (internal) and market trends (external).
+
+DEVELOP ALTERNATIVE CONCEPTUAL DESIGN AND SELECT ONE
+
+20. What is conceptual design? (2 Marks)
+    Conceptual design is a high-level design that shows how a system will work without going into technical details.
+    Example: A basic plan of how data flows in a system.
+
+21. Explain the process of developing alternative system designs. (5 Marks)
+
+* Identify system requirements
+* Create different design options
+* Evaluate each design
+* Compare advantages and disadvantages
+* Prepare options for selection
+
+Example: Designing different layouts for a software system before choosing one.
+
+22. Discuss criteria for selecting the best conceptual design. (10 Marks)
+
+* Cost effectiveness
+* Feasibility
+* Flexibility
+* User-friendliness
+* Performance and efficiency
+
+Example: The best design is one that meets requirements at the lowest cost and is easy to use.
+
+DOCUMENT THE SYSTEM CONCEPT AND PREPARE REPORT
+
+23. What is system documentation? (2 Marks)
+    System documentation is the process of recording all details about a system, including design and operation.
+
+24. Explain the importance of documenting the system concept. (5 Marks)
+
+* Provides clear understanding of the system
+* Helps in communication among stakeholders
+* Assists in future maintenance
+* Reduces errors
+* Serves as a reference
+
+Example: Developers use documentation to understand how the system works.
+
+25. Discuss the contents of a conceptual design report. (10 Marks)
+
+* System objectives
+* System requirements
+* Description of design
+* Alternatives considered
+* Selected design with reasons
+* Expected benefits
+
+Example: A report explains how the system will work and why a particular design was chosen.

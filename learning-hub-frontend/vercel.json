@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/((?!robots.txt|sitemap.xml|llms.txt|site.webmanifest|favicon.png|apple-touch-icon.png|logo-website.png|logo-app.png|app-icon-[0-9]+.png|favicon.svg|og-image.svg).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

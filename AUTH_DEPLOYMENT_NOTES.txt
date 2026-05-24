@@ -1,0 +1,27 @@
+AUTH UPDATE INCLUDED IN THIS ZIP
+
+What changed:
+1. Supabase Auth is now the only password checker.
+2. public.users.password_hash is no longer used for login.
+3. public.users now links to Supabase Auth using auth_id.
+4. Profile edit no longer changes login email directly.
+5. Forgot Password now requests a Supabase reset email.
+6. A Reset Password page was added at /reset-password.
+7. Phone numbers are normalized and a unique-phone migration is included.
+
+Before running the app:
+1. Upload learning_hub_backend/deployment_auth_final_migration.sql in Supabase SQL Editor and run it.
+2. In Supabase Auth settings, set the password recovery redirect URL to:
+   http://localhost:5173/reset-password
+   and later your deployed URL, for example:
+   https://yourdomain.com/reset-password
+3. Make sure backend .env has:
+   SUPABASE_URL=...
+   SUPABASE_ANON_KEY=...
+   FRONTEND_URL=http://localhost:5173
+4. Make sure frontend .env has:
+   VITE_SUPABASE_URL=...
+   VITE_SUPABASE_ANON_KEY=...
+
+Instructor account:
+Create instructor in Supabase Authentication > Users first, then use the helper block at the bottom of deployment_auth_final_migration.sql to link the role.
